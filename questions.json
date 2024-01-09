@@ -1,0 +1,29 @@
+{
+   "response_code": 0,
+   "results": [
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Technology: RPA",
+         "question": "What is the primary goal of UiPath Automation Hub?",
+         "correct_answer": "To accelerate the adoption of RPA across organizations",
+         "incorrect_answers": [
+            "To manage software development projects",
+            "To provide cloud computing services",
+            "To facilitate data analytics"
+         ]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "medium",
+         "category": "Technology: RPA",
+         "question": "What functionalities does UiPath Automation Hub offer?",
+         "correct_answer": "Collaborative process identification, automation pipeline management, and process repository",
+         "incorrect_answers": [
+            "Project management, customer relationship management, and supply chain management",
+            "Data visualization, machine learning, and natural language processing",
+            "Network security, database management, and system administration"
+         ]
+      }
+   ]
+}
